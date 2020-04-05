@@ -18,10 +18,9 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
 
 <img
 src="https://github.com/ffuntik/ML_project_5/blob/master/pictures/TOY1.png"
-style="height:80%;"
+max-width: 50%;
 raw=true
 alt="Subject Pronouns"
 style="margin-right: 10px;"
 />
 
-![ICNN decision boundaries on Moons (top), Circles (middle) and 2-class classification (bottom) datasets.](https://github.com/ffuntik/ML_project_5/blob/master/pictures/TOY1.png)
