@@ -27,7 +27,7 @@ alt="Subject Pronouns"
 style="margin-right: 10px;"
 />
 
-#### Examples of faces image completion with ICNN (on the test set).
+#### Examples of Olivetti faces image completion with ICNN (on the test set) over the 1000 epochs.
 
 <img
 src="https://github.com/ffuntik/ML_project_5/blob/master/pictures/faces-4.png"
