@@ -7,7 +7,7 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
 
 ### Structure of the repository:
 
-  "Toy_examples" - testing ICNN performance on Toy Examples
+  "Toy_examples" - testing ICNN performance on Toy Examples (with and without NNMF)
   
   "Multi_label_classification" - using ICNN for multy-label classification task (with and without NNMF)
   
