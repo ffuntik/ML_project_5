@@ -23,8 +23,3 @@ raw=true
 alt="Subject Pronouns"
 style="margin-right: 10px;"
 />
-img.resize {
-  max-width:50%;
-  max-height:50%;
-}
-
