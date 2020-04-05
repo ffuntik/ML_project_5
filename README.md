@@ -17,10 +17,20 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
 
 
 ### Examples:
-ICNN decision boundaries on Moons (top), Circles (middle) and 2-class classification (bottom) datasets.
+#### ICNN decision boundaries on Moons (top), Circles (middle) and 2-class classification (bottom) datasets.
 
 <img
 src="https://github.com/ffuntik/ML_project_5/blob/master/pictures/TOY1.png"
+max-width=50%;
+raw=true
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
+
+#### Examples of faces image completion with ICNN (on the test set).
+
+<img
+src="https://github.com/ffuntik/ML_project_5/blob/master/pictures/faces-4.png"
 max-width=50%;
 raw=true
 alt="Subject Pronouns"
