@@ -1,5 +1,5 @@
-# ML_project_5
-Non-negative Matrix Factorization for Input Convex Neural Networks
+## ML_project_5
+### Non-negative Matrix Factorization for Input Convex Neural Networks
 
 #### Abstract
 Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data inputting, structured prediction, reinforcement learning. The main quality of such networks is that some of their weight matrices contain only non-negative weights. The idea behind this project is to use Non-negative Matrix Factorization (NNMF) to compress ICNNs. The performance of the resulting network is tested on multi-label classification and face image completion tasks, as well as on toy examples.
