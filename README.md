@@ -1,3 +1,4 @@
+
 ## ML_project_5
 ### Non-negative Matrix Factorization for Input Convex Neural Networks
 
@@ -13,5 +14,13 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
   "Face_completion" - using ICNN for face image completion task
   
   "NNMF_with_ICNN" - using NNMF with ICNN for all tasks
+
+
+<img
+src="https://github.com/ffuntik/ML_project_5/blob/master/pictures/TOY1.png"
+raw=true
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
 
 ![ICNN decision boundaries on Moons (top), Circles (middle) and 2-class classification (bottom) datasets.](https://github.com/ffuntik/ML_project_5/blob/master/pictures/TOY1.png)
