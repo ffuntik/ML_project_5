@@ -16,6 +16,9 @@ Input Convex Neural Networks (ICNNs) serve a variety of purposes, such as data i
   "NNMF_with_ICNN" - using NNMF with ICNN for all tasks
 
 
+### Examples:
+ICNN decision boundaries on Moons (top), Circles (middle) and 2-class classification (bottom) datasets.
+
 <img
 src="https://github.com/ffuntik/ML_project_5/blob/master/pictures/TOY1.png"
 max-width=50%;
